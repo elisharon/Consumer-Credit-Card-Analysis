@@ -2,21 +2,22 @@
 
 ## Description
 
-This project uses SQL to analyze Consumer Credit Card usage data. The goal of the project is to answer a set of questions about credit card usage and consumer spending habits. The results of the SQL queries can be found in the <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/tree/main/analysis.sql">analysis.sql</a> file.
+This project uses SQL to analyze Consumer Credit Card usage data. The goal of the project is to answer a set of questions about credit card usage and consumer spending habits. 
 
 ## Installation
 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
 1. Create a database.
 2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/tree/main/dataset">dataset</a> folder.
+3. Import csv files provided in the <a href="customer.csv](https://github.com/elisharon/Consumer-Credit-Card-Analysis/files/14357317/customer.csv)
+[repayment.csv](https://github.com/elisharon/Consumer-Credit-Card-Analysis/files/14357318/repayment.csv)
+[spend.csv](https://github.com/elisharon/Consumer-Credit-Card-Analysis/files/14357319/spend.csv)">dataset</a> folder.
 4. Your database is ready, now practice your querying skills 👍
 
-Note: If you are using MySQL then restore the <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/tree/main/backup">backup</a> files of the database and save yourself some time.
+
 
 ## Schema Diagram
-
-![Screenshot_1](https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/assets/75924699/09fb12a4-e231-4879-a7c2-6f8a8c2dbc9a)
+![schema](https://github.com/elisharon/Consumer-Credit-Card-Analysis/assets/158561982/775db3c9-7ea1-4d61-9714-0a65c4c2783c)
 
 ## Database and Tools
 
@@ -38,7 +39,7 @@ You can use this dataset to build your own project and practice your querying sk
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project
 
 * What is the average credit limit?
 * Which type of credit card is most commonly used?
